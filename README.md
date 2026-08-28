@@ -15,7 +15,7 @@
 
 ## 설치
 
-1. [Releases](https://github.com/TeamLimRyan/NADESICO_TBO3Y_KO/releases)에서 `NADESICO_TBO3Y_KO_v1.0.0.zip`을 내려받아 압축을 풉니다.
+1. [Releases](https://github.com/TeamLimRyan/KIDOU_SENKAN_NADESICO_THE_BLANK_OF_3_YEARS_KOREAN_LOCALIZATION_RELEASE/releases)에서 `NADESICO_TBO3Y_KO_v1.0.0.zip`을 내려받아 압축을 풉니다.
 2. 일본판 원본 2디스크를 한 폴더에 BIN/CUE 형식으로 준비합니다.
 3. xdelta3 3.2.0 또는 호환 버전을 준비합니다.
 4. PowerShell에서 다음 명령을 실행합니다.
