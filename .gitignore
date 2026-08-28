@@ -1,0 +1,18 @@
+# Never commit original or patched disc images, saves, emulator states, or credentials.
+*.bin
+*.cue
+*.iso
+*.chd
+*.ccd
+*.img
+*.mds
+*.mdf
+*.srm
+*.sav
+*.state
+*.zip
+*.7z
+*.rar
+.env
+.env.*
+!.env.example
